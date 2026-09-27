@@ -21,7 +21,7 @@ components = [
     "navx"
     "pathplannerlib"
     "phoenix5"
-    "phoenix6"
+    "phoenix6==26.70.0a2"
     "playingwithfusion"
     "rev"
 ]
