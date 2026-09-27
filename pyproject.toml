@@ -11,13 +11,19 @@ robotpy_version = "2026.2.2"
 # Which optional robotpy components should be installed?
 # -> equivalent to `pip install robotpy[extra1, ...]
 components = [
-    #"all",
-    # "apriltag",
-    # "commands2",
-    # "cscore",
-    # "romi",
-    # "sim",
-    # "xrp",
+    "all",
+    "apriltag",
+    "commands2",
+    "cscore",
+    "romi",
+    "sim",
+    "xrp",
+    "navx"
+    "pathplannerlib"
+    "phoenix5"
+    "phoenix6"
+    "playingwithfusion"
+    "rev"
 ]
 
 # Other pip packages to install, such as vendor packages (each element
